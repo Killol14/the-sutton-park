@@ -1,19 +1,50 @@
 
 
-body{
-    text-align: center;
-    color: aliceblue;
-    background-color: rgb(12, 49, 29);
-    position: relative;
-    margin-top: 150px;
-} 
-p{
-    
-    font-family:"Montserrat-bold";
-}
+
+  
+ 
 h1{
     font-family: "Ubuntu";
 }
-.navbar-brand{
-    color:aliceblue;
+h2{
+    color: rgb(63, 90, 81);
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: 20px;
 }
+p{
+    
+    font-family: "Montserrat-bold";
+    margin:0 auto 0 auto;
+    font-size: 1.2rem;
+    
+}
+.navbar{
+    background-color: #0B2B26;
+}
+.navbar-brand{
+    color:azure;
+}
+.nav-link{
+    color:azure;
+    text-decoration: none;
+}
+
+.park-image{
+    width: 50%;
+    border-radius: 100%;
+    text-align: center;
+    margin: 100px auto 100px auto;
+}
+.park-row{
+    text-align: center;
+}
+
+.top-container{
+    text-align: center;
+    color: rgb(53, 57, 59);
+    position: relative;
+    margin-top: 50px;
+}
+
