@@ -1,0 +1,19 @@
+
+
+body{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(12, 49, 29);
+    position: relative;
+    margin-top: 150px;
+} 
+p{
+    
+    font-family:"Montserrat-bold";
+}
+h1{
+    font-family: "Ubuntu";
+}
+.navbar-brand{
+    color:aliceblue;
+}
