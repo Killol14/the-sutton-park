@@ -64,14 +64,22 @@ p{
     text-align: center;
 }
 /* park-images */
+ .more-images{
+    background-color: aqua;
+ }
 
-.images {
-    position: relative;
-    margin:10px 15px 10px 15px;
-    
-
-}
-.img-text{
+ .img-text{
+    color: rgb(56, 92, 77);
     text-align: center;
-    color:#3f6963;
-}
+    margin: 1.6em 50px;
+ }
+
+ .image{
+    width: 400px;
+    height:400px;
+    margin: 20px 30px;
+   
+ }
+ .display{
+    display:inline-table;
+ }
