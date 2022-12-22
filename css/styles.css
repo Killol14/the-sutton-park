@@ -1,8 +1,6 @@
 
+ /* Body */
 
-
-  
- 
 h1{
     font-family: "Ubuntu";
 }
@@ -13,24 +11,45 @@ h2{
     font-weight: normal;
     margin: 20px;
 }
+h3{
+    font-family: "Montserrat-bold"; 
+    font-weight: 500;
+}
 p{
-    
     font-family: "Montserrat-bold";
     margin:0 auto 0 auto;
     font-size: 1.2rem;
     color: #3f6963;
+    text-align: center;
     
 }
+/* Navigation Bar */
+
 .navbar{
-    background-color: #0B2B26;
+    background-color: #365832;
 }
 .navbar-brand{
     color:azure;
+    font-size: larger;
+    font-weight: 600;
+   
+    
 }
+
 .nav-link{
     color:azure;
     text-decoration: none;
 }
+
+/* top- container */
+
+.top-container{
+    text-align: center;
+    color: rgb(53, 57, 59);
+    position: relative;
+    margin-top: 50px;
+}
+/* middle- container */
 
 .park-image{
     width: 50%;
@@ -42,20 +61,19 @@ p{
     text-align: center;
 }
 
-.top-container{
-    text-align: center;
-    color: rgb(53, 57, 59);
-    position: relative;
-    margin-top: 50px;
-}
+
+/* bottom-container */
 
 .social-media{
     text-align: center;
     margin-top: 30px;
-  
+    padding-top: 30px;
+    background-color: aliceblue;
+   
 }
 .color{
     margin: 2%;
+    padding-bottom: 5px;
 
 }
 
@@ -63,23 +81,43 @@ p{
     background-color: azure;
     text-align: center;
 }
-/* park-images */
- .more-images{
-    background-color: aqua;
- }
-
- .img-text{
-    color: rgb(56, 92, 77);
+.back-to-top{
     text-align: center;
-    margin: 1.6em 50px;
- }
-
- .image{
-    width: 400px;
-    height:400px;
-    margin: 20px 30px;
+    margin: 25px;
    
+}
+
+/* Gallery.html*/
+
+body{
+    background-color:antiquewhite;
+}
+
+ 
+.img-text{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #08361a;
+}
+.gallery{
+    display: block;
+    margin: 10px;
+    float:left;
+}
+ 
+ .image{
+    width:400px;
+    height:400px;
+    float:left;
+    margin:auto;
+    border-radius: 10px;
+ 
  }
- .display{
-    display:inline-table;
+ .image:hover{
+    transform: scale(1.2);
  }
+main{
+    margin-top: 50px;
+}
+ 
