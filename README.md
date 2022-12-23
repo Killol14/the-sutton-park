@@ -34,59 +34,60 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
  
 
-Wireframes 
+*Wireframes 
 
-Design  
+*Design  
 
-Font Style  
+1.Font Style  
 
-Colour Scheme  
+2.Colour Scheme  
 
-Images and Icons  
+3.Images and Icons  
 
-Structure  
+*Structure  
 
-Navigation Bar  
+1.Navigation Bar  
 
-Carousel  
+2.Carousel  
 
-Hyperlinks  
+3.Hyperlinks  
 
-Map  
+4.Map  
 
-Back to top Buttons  
+5.Back to top Buttons  
 
-Social Media Links (Footer)  
+6.Social Media Links (Footer)  
 
-Features  
+* Features  
 
-Current Features 
+1.Current Features 
 
-Technologies Used  
+* Technologies Used  
 
-Languages used  
+1.Languages used  
 
-Frameworks and Library Programs  
+2.Frameworks and Library Programs  
 
-Testing  
+* Testing  
 
-Deployment  
+* Deployment  
 
-GitHub Pages  
+1. GitHub Pages  
 
-Credits  
+* Credits  
 
-Code  
+1.Code  
 
-Media  
+2.Media  
 
-Content  
+3.Content  
 
-Acknowledgements  
+4.Acknowledgements  
 
-Summary  
+* Summary  
 
-Wireframes  
+
+## Wireframes  
 
 Link to PDF Wireframe  
 
@@ -198,37 +199,37 @@ I used Bootstrap for the Navigation Bar and Carousel
 
  
 
-#### * Google Fonts 
+####  Google Fonts 
 
 Two fonts Ubantu and Monserrat Bold, were imported from google font.  
 
  
 
-#### * Font awesome 
+####  Font awesome 
 
 I used the social media icons from font awesome  
 
  
 
-#### * Git  
+####  Git  
 
 Git was used as version control in terminal  
 
  
 
-#### * Github 
+####  Github 
 
 Github was used to create and store the project repository  
 
  
 
-#### * Gitpod  
+####  Gitpod  
 
 Gitpod was used to create my files and where I wrote the code.  
 
  
 
-> JQuery  
+* JQuery  
 
 JQuery came with Bootstrap to make the Nav bar responsive  
 
@@ -236,11 +237,11 @@ JQuery came with Bootstrap to make the Nav bar responsive
 
 ### Testing 
 
->* I have sent the website link to friends and family who have tested the website.  
+* I have sent the website link to friends and family who have tested the website.  
 
  
 
-*> Bug  
+* Bug  
 
 Bug found from the gallery page. Navigation bar button wasn’t working after going on mobile version of the website.  
 
@@ -248,7 +249,7 @@ Bug found from the gallery page. Navigation bar button wasn’t working after go
 
 ## Deployment  
 
-> GitHub Pages  
+* GitHub Pages  
 
 Strictly followed my innovative ideas, by searching on google full stack developer websites. (First attempt at this milestone can be viewed here.. Link) where my ideas devolved from.  
 
@@ -275,7 +276,7 @@ Acknowledgements
  
 
 With thanks to Ronan McCelland, mentor, who helped me develop this idea.  
-              ------------------
+
  
 
 Thank you to the code institute city of Bristol college for help and support.  
