@@ -3,10 +3,9 @@
 ## Milestone Project 1: Static Front-End Website 
 
  
+[Website Image](https://github.com/Killol14/the-sutton-park/blob/master/images/Sutton -Park Design on Devices.png)
 
-(IMAGES)  
 
- 
 
 Sutton Park, is one of the largest nature reserves in the UK/Europe, located in the West Midlands. The aim of the website is to give potential visitors a glimpse of the beauty of the park, and obtain information about the opening times, restaurants and nature and activities located in the park.  
 
@@ -34,9 +33,9 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
  
 
-*Wireframes 
+* Wireframes 
 
-*Design  
+* Design  
 
 1.Font Style  
 
@@ -44,7 +43,7 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
 3.Images and Icons  
 
-*Structure  
+* Structure  
 
 1.Navigation Bar  
 

@@ -23,21 +23,22 @@ p{
     text-align: center;
     
 }
+
 /* Navigation Bar */
 
 .navbar{
     background-color: #365832;
 }
 .navbar-brand{
-    color:azure;
-    font-size: larger;
+    color:rgb(207, 226, 30);
+    font-size: 2.5rem;
     font-weight: 600;
    
     
 }
 
 .nav-link{
-    color:azure;
+    color:rgb(207, 226, 30);
     text-decoration: none;
 }
 
@@ -98,7 +99,7 @@ body{
     text-align: center;
     margin-top: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #08361a;
+    color: #38573a;
 }
 .gallery{
     display: block;
@@ -121,3 +122,9 @@ main{
     margin-top: 50px;
 }
  
+@media all and (display-mode: fullscreen) {
+    body {
+      margin: 0;
+      border: 5px solid black;
+    }
+  }
