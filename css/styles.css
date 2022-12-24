@@ -103,7 +103,7 @@ body{
 }
 .gallery{
     display: block;
-    margin: 10px;
+    margin: 32px;
     float:left;
 }
  
@@ -120,11 +120,5 @@ body{
  }
 main{
     margin-top: 50px;
+    margin:auto;
 }
- 
-@media all and (display-mode: fullscreen) {
-    body {
-      margin: 0;
-      border: 5px solid black;
-    }
-  }
