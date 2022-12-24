@@ -3,7 +3,7 @@
 ## Milestone Project 1: Static Front-End Website 
 
  
-[Website Image](https://github.com/Killol14/the-sutton-park/blob/master/images/Sutton -Park Design on Devices.png)
+![Website overlook](images/Sutton%20-Park%20Design%20on%20Devices.png)
 
 
 
