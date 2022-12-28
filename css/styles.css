@@ -3,6 +3,9 @@
 
 h1{
     font-family: "Ubuntu";
+    font-size: 3.5rem;
+    color: #365832;
+    font-weight: 900;
 }
 h2{
     color: rgb(63, 90, 81);
@@ -14,34 +17,44 @@ h2{
 h3{
     font-family: "Montserrat-bold"; 
     font-weight: 500;
+    color: #365832;
 }
-p{
+p {
     font-family: "Montserrat-bold";
-    margin:0 auto 0 auto;
-    font-size: 1.2rem;
+    margin:auto;
+    font-size: 1.6rem;
     color: #3f6963;
-    text-align: center;
-    
+    text-align:center;
+}
+button {
+    border-radius: 5rem;
+    background-color: beige;
+    color: #3f6963;
 }
 
 /* Navigation Bar */
 
 .navbar{
     background-color: #365832;
+    display: flex;
 }
 .navbar-brand{
     color:rgb(207, 226, 30);
-    font-size: 2.5rem;
+    font-size: 4.5rem;
     font-weight: 600;
-   
-    
+    font-family:"Ubuntu";
 }
 
 .nav-link{
     color:rgb(207, 226, 30);
     text-decoration: none;
+    font-size: 1.5rem;
+    font-family:"Montserrat-bold";
 }
-
+.carousel-inner img{
+  margin: 200px auto 100px;
+  border-radius: 5rem;
+}
 /* top- container */
 
 .top-container{
@@ -53,11 +66,12 @@ p{
 /* middle- container */
 
 .park-image{
-    width: 50%;
+    width: 40%;
     border-radius: 100%;
     text-align: center;
     margin: 100px auto 100px auto;
 }
+
 .park-row{
     text-align: center;
 }
@@ -69,18 +83,36 @@ p{
     text-align: center;
     margin-top: 30px;
     padding-top: 30px;
-    background-color: aliceblue;
+    background-color:rgb(207, 226, 30);
    
 }
 .color{
     margin: 2%;
     padding-bottom: 5px;
-
 }
 
+/*contact-form*/
+
 #contact-form{
-    background-color: azure;
+    background-color:rgb(207, 226, 30);
     text-align: center;
+}
+.btn-primary {
+    color: #fff;
+    background-color:rgb(53, 57, 59);
+    border-color: #3773b5;
+    margin:1.2em;
+}
+.list-group-item-success {
+    color: #0f5132;
+    background-color: #d1e7dd;
+    font-size: 1.2rem;
+}
+
+.ctn-message{
+    margin-top:1.2em;
+
+   
 }
 .back-to-top{
     text-align: center;
@@ -98,8 +130,9 @@ body{
 .img-text{
     text-align: center;
     margin-top: 50px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #38573a;
+    font-family: "Ubuntu";
+    color: #365832;
+    font-weight: 900;
 }
 .gallery{
     display: block;
@@ -118,7 +151,3 @@ body{
  .image:hover{
     transform: scale(1.2);
  }
-main{
-    margin-top: 50px;
-    margin:auto;
-}
