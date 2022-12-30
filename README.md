@@ -88,7 +88,7 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
 ## Wireframes  
 
-Link to PDF Wireframe  
+![Wirefrane PNG](images/Wireframe.png) 
 
 ## Design 
 
@@ -104,7 +104,13 @@ Used RGB throughout.
 
 I chose this colour scheme, as the website is based around Nature, the Green and beige colour scheme match with the nature tones of the topic of the website.  
 
- 
+![#365832]
+![#3f6963]
+![#d1e7dd]
+![beige]
+![darkcyan]
+![rgb(207, 226, 30)]
+![rgb(63, 90, 81)]
 
 ## Images  
 
