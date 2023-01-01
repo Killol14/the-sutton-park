@@ -104,13 +104,13 @@ Used RGB throughout.
 
 I chose this colour scheme, as the website is based around Nature, the Green and beige colour scheme match with the nature tones of the topic of the website.  
 
-![#365832]
-![#3f6963]
-![#d1e7dd]
-![beige]
-![darkcyan]
-![rgb(207, 226, 30)]
-![rgb(63, 90, 81)]
+* #365832
+* #3f6963
+* #d1e7dd
+* beige
+* darkcyan
+* rgb(207, 226, 30)
+* rgb(63, 90, 81)
 
 ## Images  
 
@@ -242,22 +242,66 @@ JQuery came with Bootstrap to make the Nav bar responsive
 
 ### Testing 
 
-* I have sent the website link to friends and family who have tested the website.  
-
+* Please refer here for more information on testing of the Sutton Park website.
+(file:///C:/Users/PC/OneDrive/Desktop/Sutton%20Park%20test%20scenario%201.pdf)
  
 
-* Bug  
-
-Bug found from the gallery page. Navigation bar button wasn’t working after going on mobile version of the website.  
-
- 
 
 ## Deployment  
 
-* GitHub Pages  
+### How this Project was Deployed
 
-Strictly followed my innovative ideas, by searching on google full stack developer websites. (First attempt at this milestone can be viewed here.. Link) where my ideas devolved from.  
+This project was deployed to GitHub pages via the following steps:
 
+1.Log into GitHub.![Link to Github] (https://github.com/github)
+2.From the list of Repositories, select (Killol14/the-sutton-park.)
+3.From the Repositories sub-headings, select "Settings".
+4.Under "Options", the first category of settings, scroll down to the GitHub Pages section.
+5.From the dropdown list under the "Source" heading, select "master".
+6.A second drop-down menu that appears should remain as the default value, "/root".
+7.Press Save.
+8.On Page refresh, scroll back down to the GitHub Pages section, and the link to the deployed site will be available in a green sub-section with a tick icon next to it.
+
+As this project was developed on the master branch, all changes made to the repository are immediately reflected in the deployed project.
+
+### How to Run this Project in your Browser
+
+1.Install the Google Chrome or Firefox browser.
+2.Install the applicable GitPod Browser Extensions for your chosen browser.
+3.Create a GitHub account.
+4.Log in to Gitpod using your GitHub account.
+5.Visit Hard Driver's GitHub Repository.
+6.Open the repository in Gitpod:
+* Click the green "Gitpod" icon at the top of the Repository, or
+* Click this link.
+7.A new workspace will open with the current state of the master branch. Any changes made to the master branch after this point will not be automatically updated in your Gitpod Workspace.
+
+### How to Run this Project Locally
+--------------------------------------------------
+##### Cloning the Repository
+
+1.Visit Hard Driver's GitHub Repository.
+2.Click the "Code" dropdown box above the repository's file explorer.
+3.Under the "Clone" heading, click the "HTTPS" sub-heading.
+4.Click the clipboard icon, or manually copy the text presented: (https://github.com/Killol14/the-sutton-park.git)
+5.Open your preferred IDE (VSCode, Atom, PyCharm, etc).
+6.Ensure your IDE has support for Git, or has the relevant Git extension.
+7.Open the terminal, and create a directory where you would like the Repository to be stored.
+8.Type git clone and paste the previously copied text (https://https://github.com/Killol14/the-sutton-park.git) and press enter.
+9.The Repository will then be cloned to your selected directory.
+
+### Manually Downloading the Repository
+
+1.Visit Hard Driver's GitHub Repository.
+2.Click the "Code" dropdown box above the repository's file explorer.
+3.Click the "Download ZIP" option; this will download a copy of the selected branch's repository as a zip file.
+4.Locate the ZIP file downloaded to your computer, and extract the ZIP to a designated folder which you would like the repository to be stored.
+
+### Opening the Repository
+
+1.Open your preferred IDE (VSCode, Atom, PyCharm, etc).
+2.Navigate to the chosen directory where the Repository was Cloned/Extracted.
+3.You will now have offline access to the contents of the project.
  
 
 ## Summary 
@@ -321,3 +365,5 @@ This website is purely fictious and not for public consumption.
  
 
  
+
+[def]: https://github.com/github
