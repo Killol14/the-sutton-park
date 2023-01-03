@@ -88,7 +88,10 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
 ## Wireframes  
 
-![Wirefrane PNG](images/Wireframe.png) 
+![Wireframe PNG](images/Wireframe.png) 
+
+![Wireframe1](images/wireframe%201.jpeg)
+![wireframe2](images/wireframe%202.jpeg)
 
 ## Design 
 
@@ -106,11 +109,12 @@ I chose this colour scheme, as the website is based around Nature, the Green and
 
 * #365832
 * #3f6963
-* #d1e7dd
 * beige
 * darkcyan
 * rgb(207, 226, 30)
 * rgb(63, 90, 81)
+
+![Park Colour Scheme](images/Colour%20Scheme.png)
 
 ## Images  
 
