@@ -15,11 +15,12 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
  
 
-##Live Project  
+## Live Project 
 
  
 
-(Link to the project here)  
+(Link to the project here)
+https://github.com/Killol14/the-sutton-park
 
  
 
@@ -31,7 +32,9 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 
 ## Table of Contents  
 
- 
+* User Experience
+
+1.User stories
 
 * Wireframes 
 
@@ -84,7 +87,19 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
 4.Acknowledgements  
 
 * Summary  
+---------------------------------------------------------------------------------------------------
 
+## User Experience
+
+* User Stories
+
+Pspective visitors 
+
+I created this website for families and potential visitors to the park, as I couldn’t find a website that contained both, park information and images in one easy to use and navigate website. 
+
+I believe visitors would like to see the events happening at the park, as well as where are the restaurants, entrances, car park and playgrounds are located.  
+
+I also believe that visitors who wish to ask more questions about the park and the amenities can do so, as I have created a contact form to submit with any questions.  
 
 ## Wireframes  
 
@@ -335,17 +350,17 @@ Credit goes to Bootstrap 5 and Shutterstock
 
  
 
-Acknowledgements  
+##### Acknowledgements
 
  
 
-With thanks to Ronan McCelland, mentor, who helped me develop this idea.  
+With thanks to Ronan McCelland,mentor, and Ben Smith, tutor who helped me develop this idea
 
  
 
 Thank you to the code institute city of Bristol college for help and support.  
 
- 
+ ReadMe file structure, with credit to the former student, milestone 1 Row Gallery Website
 
 This website is purely fictious and not for public consumption.  
 
