@@ -20,14 +20,14 @@ This is my Milestone project 1 submission for Code Institute’s Diploma in Web 
  
 
 (Link to the project here)
-https://github.com/Killol14/the-sutton-park
+https://killol14.github.io/the-sutton-park/
 
  
 
 ## Repository  
 
 (Project repository here)  
-
+https://github.com/Killol14/the-sutton-park
  
 
 ## Table of Contents  
