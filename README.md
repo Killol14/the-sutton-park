@@ -347,8 +347,8 @@ I believe I have a created a website that shows the natural beauty of the park, 
  
 
 Credit goes to Bootstrap 5 and Shutterstock  
-
- 
+Navigation Bar and carasol are used by Bootstrap 
+Main Images from Shutterstock
 
 ##### Acknowledgements
 
