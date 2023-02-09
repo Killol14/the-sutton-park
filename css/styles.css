@@ -101,7 +101,9 @@ em{
 }
     
 /*contact-form*/
-
+#contact{
+    background-color:rgb(207, 226, 30);  
+}
 #contact-form{
     background-color:rgb(207, 226, 30);
     text-align: center;
@@ -126,7 +128,15 @@ em{
 .back-to-top{
     text-align: center;
     margin: 0;
-   
+}
+.contact-button{
+    color:#365832;
+    font-size: 2.2rem;
+    padding: 5px;
+    margin-right: 5px;
+}
+.contact-button:hover{
+    color: #408d81;
 }
 
 /* Gallery.html*/
@@ -162,7 +172,15 @@ body{
  .image:hover{
     transform: scale(1.2);
  }
-
+ .nav-button{
+    color:#365832;
+    font-size: 2.2rem;
+    margin: 0;
+    padding: 5px;
+ }
+ .nav-button:hover{
+    color: #408d81;
+ }
  @media screen and (max-width: 1240px){
     .carousel-inner img{
         width: 100%;
