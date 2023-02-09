@@ -23,8 +23,8 @@ h3{
 p {
     font-family: "Montserrat-bold";
     margin:auto;
-    font-size: 1.6rem;
-    color: #3f6963;
+    font-size: 2.6rem;
+    color: black;
     text-align:center;
 }
 button {
@@ -51,15 +51,12 @@ em{
     font-weight: 600;
     font-family:"Ubuntu";
 }
-.navbar-toggler{
-    margin-left: 50px;
-   
-}
+
 
 .nav-link{
     color:rgb(207, 226, 30);
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-family:"Montserrat-bold";
 }
 .carousel-inner img{
@@ -71,7 +68,9 @@ em{
     width: 1200px;
 }
 /* top- container */
-
+#container{
+    margin-top: 110px;
+}
 .top-container{
     text-align: center;
     color: rgb(53, 57, 59);
@@ -134,11 +133,16 @@ em{
     font-size: 2.2rem;
     padding: 5px;
     margin-right: 5px;
+    float: right;
 }
 .contact-button:hover{
     color: #408d81;
 }
+.contact-links{
+text-align: center;
+margin-top: 50px;
 
+}
 /* Gallery.html*/
 
 body{
