@@ -279,8 +279,8 @@ JQuery came with Bootstrap to make the Nav bar responsive
 
 ### Html, css and LightHouse Testing Reports
 
-![Wireframe PNG](images/sutton%20park%20css.png) 
-![Wireframe PNG](images/Sutton%20park%20index.html%20W3Scool%20error%20report.png) 
+![Wireframe PNG](images/sutton%20park%20css.PNG) 
+![Wireframe PNG](images/Sutton%20park%20index.html%20W3Scool%20error%20report.PNG) 
 ![Wireframe PNG](images/LightHouse%20Performance.PNG) 
 
 
