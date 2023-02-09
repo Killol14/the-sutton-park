@@ -278,9 +278,13 @@ JQuery came with Bootstrap to make the Nav bar responsive
 | Social Media links| 1. There are 4 social media links, Facebook, Linkedin, Instagram and twitter.Once pressed these take you to the relevant social media pages.| All links work and take to the relevant social media page| As expected, to work without any bugs| No Bug Detected|
 
 ### Html, css and LightHouse Testing Reports
-
+* CSS
 ![Wireframe PNG](images/sutton%20park%20css.PNG) 
-![Wireframe PNG](images/Sutton%20park%20index.html%20W3Scool%20error%20report.PNG) 
+----------
+* index.html
+![Wireframe PNG](images/HtmlReport.PNG) 
+----------
+* LightHouse Performance
 ![Wireframe PNG](images/LightHouse%20Performance.PNG) 
 
 
