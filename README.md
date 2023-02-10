@@ -283,9 +283,11 @@ JQuery came with Bootstrap to make the Nav bar responsive
 ----------
 * index.html
 ![Wireframe PNG](images/HtmlReport.PNG) 
+* index.html showing an error while doing a W£Scool validation report. I have Tried to fix the error but the error is coming from google link. According to my reserch google is not supporting some of the website links. 
 ----------
 * LightHouse Performance
 ![Wireframe PNG](images/LightHouse%20Performance.PNG) 
+* lightHouse performance was 56% before because of the Images used in sutton park site. I have managed to bring it to 77% by reducing images size. 
 
 
 ## Deployment  
