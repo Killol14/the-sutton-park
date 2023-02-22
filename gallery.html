@@ -5,13 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-
- <!-- font-awesome-->
-
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
- <script src="https://kit.fontawesome.com/5ab2e71812.js" crossorigin="anonymous"></script>
- 
-
    <link rel="stylesheet" href="css/styles.css">
    
    <style> @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,600&family=Ubuntu:wght@300&display=swap'); </style>
@@ -19,30 +12,64 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    
+    <!--Bootstrap-link-->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
    
+
+    <!-- Bootstrap-JavaScript Bundle with Popper -->
+
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/styles.css">
     
     <title>Park-images</title>
 
 </head>
    <body>
-      
-<!--Park-Gallery -->
+    <!--Bootstrap-NavBar-->
 
+    <div class="navbar">
+        <nav class="navbar navbar-expand-lg fixed-top col-lg-12">
+          <a class= "navbar-brand" href="#map" style="padding-left: 20px;"> Sutton Park </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+          data-bs-target="#navbarTogglerDemo02" arial-controls="navbarTogglerDemo02"
+          aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon btn-close-white"></span>
+          </button>
+       
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <!--Links from Birmingham Site -->
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#map">ParkMap</a>
+            </li>
+                <li class="nav-item">
+                    <a class="nav-link"  href="contact.html">Contact</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link"  href="gallery.html">Gallery</a>
+                 
+                </li>
+            </ul>
+        </div>
     
-<div>
-<a class="nav-button" href="index.html">Home</a>      
-<a class="nav-button"  href="contact.html">Contact</a>
-</div>      
+      </nav>
+    </div>
 
+<!--Park-Gallery -->
 <div>
     <h1 class="img-text"><u>Park Gallery</u></h1>
-   </div>
+</div>
  
-<section>
 
     <div class="gallery">
-        <img class="image" src="images/shutterstock_1972477181.webp"alt="sutton-park-1">
+        <img class="image" src="images/shutterstock_1972477181.webp" alt="sutton-park-1">
        </div>
        <div class="gallery">
         <img class="image" src="images/shutterstock_1110318167.webp" alt="sutton-park-2">
@@ -66,7 +93,7 @@
         <img class="image" src="images/shutterstock_1064154728.webp" alt="sutton-park-8">
        </div>
        <div class="gallery">
-        <img class="image"src="images/shutterstock_755775160.webp" alt="sutton-park-9">
+        <img class="image" src="images/shutterstock_755775160.webp" alt="sutton-park-9">
        </div>
        <div class="gallery">
         <img class="image" src="images/shutterstock_480258091.webp" alt="sutton-park-10">
@@ -77,7 +104,7 @@
        <div class="gallery">
         <img class="image" src="images/sutton-park -restaurant.webp" alt="sutton-park-12">
        </div>
-    </section> 
+
 </body>
 
 </html>
